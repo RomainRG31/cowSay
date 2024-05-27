@@ -1,4 +1,4 @@
-const infos = { name: "Romain Gelder Roger", campus: "Toulouse" };
+const infos = { name: "Romain Gelder-Roger", campus: "Toulouse" };
 
 module.exports = {
   name: infos.name,
